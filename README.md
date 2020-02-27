@@ -1,7 +1,7 @@
 # AmExpert2019 Hackathon
 This project will predict redemption_status of a customer using a dataset.
 [![Open Source Love png3](https://badges.frapsoft.com/os/v3/open-source.png?v=103)](https://github.com/ellerbrock/open-source-badges/)
-[![Generic badge](https://img.shields.io/badge/Status-More_Files_in_development!-<COLOR>.svg)](https://shields.io/)
+[![Generic badge](https://img.shields.io/badge/Status-Completed!-<COLOR>.svg)](https://shields.io/)
 
 
 ## Table of Contents
