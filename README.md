@@ -68,5 +68,5 @@ Distributed under the NU General Public v3.0 License. See `LICENSE` for more inf
 ## Contact
 [![Generic badge](https://img.shields.io/badge/Need_Help-Contact_ME!-<COLOR>.svg)](https://shields.io/)
 
-Shubham Gupta - shubham.aiexpert@gmail.com
+Shubham Gupta - shubham.aiengineer@gmail.com
 
